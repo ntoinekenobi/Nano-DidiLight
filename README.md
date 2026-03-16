@@ -1,5 +1,5 @@
 💡 Nano DidiLight
-Nano DidiLight is a lighting control interface that allows you to control the **D::Light lighting software using a **Korg NanoKontrol2 MIDI controller.
+Nano DidiLight is a lighting control interface that allows you to control the D::Light lighting software using a Korg NanoKontrol2 MIDI controller.
 This project demonstrates how a compact MIDI controller can be used to control stage lighting parameters such as intensity, submasters, and cues in real time.
 Nano DidiLight provides a practical workflow for lighting designers, technicians, and artists who want a portable physical controller for lighting performances.
 
